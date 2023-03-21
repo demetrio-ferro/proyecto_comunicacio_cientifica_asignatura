@@ -8,7 +8,10 @@ Introduce your project:
 
 Make sure you cite [1,2] the sources you report.
 
-Include a nice diagram that shows the main framework:
+Go to the Wiki tab and fill in all of the details, making a nice presentation of the analyses there.
+
+
+Consider including a nice diagram that shows the main framework:
 
 ![imagen](https://user-images.githubusercontent.com/79866549/226570815-999e179c-ac91-486e-8846-f09cb56cf27d.png)
 
