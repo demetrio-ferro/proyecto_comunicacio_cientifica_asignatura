@@ -1,5 +1,5 @@
 # com_cient_asignatura
-**Asignatura Proyecto de Comunicació Cientifica **
+**Asignatura Proyecto de Comunicació Cientifica**
 
 Introduce your project: 
 - what is the state of the art?
