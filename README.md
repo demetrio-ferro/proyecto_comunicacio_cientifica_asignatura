@@ -19,7 +19,7 @@ Insert bibliography (with DOI)\
 [2] Moreno-Bote, R., Beck, J., Kanitscheider, I., Pitkow, X., Latham, P., & Pouget, A. (2014). Information-limiting correlations. Nature neuroscience, 17(10), 1410-1417. https://doi.org/10.1038/nn.3807 
 
 
-License Creative-Common CC4.0
+License Creative-Common (CC 4.0)
 
 
 
