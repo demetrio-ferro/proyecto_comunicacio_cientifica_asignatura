@@ -1,4 +1,4 @@
-# com_cient_asignatura
+# proyecto_comunicacio_cientifica_asignatura
 **Asignatura Proyecto de Comunicació Cientifica**
 
 Introduce your project: 
