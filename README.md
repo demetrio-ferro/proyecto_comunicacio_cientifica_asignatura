@@ -1,6 +1,14 @@
 # proyecto_comunicacio_cientifica_asignatura
 **Asignatura Proyecto de Comunicació Cientifica**
 
+Introduce yourself:
+
+Name: (your name)
+Surname: (your surname)
+UNIS: (your unis)
+Email: (your email)
+
+
 Introduce your project: 
 - what is the state of the art?
 - what is the problem/limitation of the state of the art?
