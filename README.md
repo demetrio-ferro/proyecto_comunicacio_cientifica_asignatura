@@ -14,7 +14,7 @@ Introduce your project:
 - what is the problem/limitation of the state of the art?
 - how do you aim to improve it?
 
-Make sure you cite [1,2] the sources [2,3] or [1-3] that you report.
+Make sure you cite the sources that you report. Two consicutive citations [1,2] usually separated by comma [2,3], three or more consecutive citations are generally separated by dash [1-3].
 
 Go to the Wiki tab and fill in all of the details, making a nice presentation of the analyses there.
 
