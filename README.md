@@ -39,7 +39,6 @@ License Creative-Common (CC 4.0)
 
 
 
-
 **Author contact**\
 Demetrio Ferro\
 C\ Ramon Trias Fargas 25-27,\
